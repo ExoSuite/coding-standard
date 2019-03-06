@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Cdn77CodingStandard\Sniffs\Classes;
+namespace ExoSuiteCodingStandard\Sniffs\Classes;
 
 use PHP_CodeSniffer\Files\File;
 use PHP_CodeSniffer\Sniffs\Sniff;
